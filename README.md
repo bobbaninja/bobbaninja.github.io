@@ -1,4 +1,4 @@
-## Hi! I'm Jeffrey. This is my side project site.
+## Side Project Site - Jeffrey Huang
 > MS Analytics @ GATech, Data Analytical and Strategic Planning Intern @ Disney
 
 ### PDGenerator: Probability Distribution Generation Python Library Package
@@ -10,4 +10,8 @@ This is a Python package that allows users to generate random variates from a wi
 This project implements the K-means clustering algorithm to compress images. The implementation is done without using any external libraries for K-means clustering.
 
 [Link](https://github.com/jhuang678/Image_Compression)
+
+
+### Washington State Housing Price Predictor
+
 
