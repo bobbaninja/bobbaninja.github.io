@@ -6,7 +6,7 @@
 Exploring the vibrant intersection of content authenticity and user engagement on TikTok, this study dissects video data to unravel the nuances of digital interaction. Our data-driven approach scrutinizes over 19,000 videos, distinguishing misleading content and engagement patterns pivotal for stakeholders in digital media. This concise repository offers a window into sophisticated data mining techniques that delve into classification, clustering, and sentiment analysis, providing a blueprint for enhancing platform integrity and user experience. With rigorous analysis and machine learning models, this project is a testament to the analytical prowess and innovation at the heart of today's data science landscape.
 
 - **Tech Stack:** Python
-- **Libraries:** Numpy, Pandas, Seaborn, Matplotlib, Sklearn, WordCloud, re, NLTK
+- **Libraries:** Numpy, Pandas, Seaborn, Matplotlib, Sklearn, WordCloud, RE, NLTK
   
 [Link](https://github.com/jhuang678/Tiktok_Video)
 
