@@ -10,7 +10,7 @@ Exploring the vibrant intersection of content authenticity and user engagement o
   
 [Link](https://github.com/jhuang678/Tiktok_Video)
 
-## PDGenerator: Empowering Data Science with Robust Random Variate Generation Package
+## PDGenerator: Empowering Data Science with Random Variate Generation Package
 
 PDGenerator is a specialized Python library for generating random variates from a variety of probability distributions. It's engineered for precision and ease of use, catering to data scientists and researchers in need of robust simulation tools. The library encompasses over 15 distributions and employs established methods such as the Inverse Transform Theorem for accurate variate generation. Rigorously tested to meet a 95% confidence level, PDGenerator offers a reliable solution for statistical needs within any Python setting.
 
