@@ -8,7 +8,7 @@ PDGenerator is a specialized Python library for generating random variates from 
 - **Tech Stack:** Python
 - **Libraries:** Math, Numpy, Scipy, Matplotlib
   
-[Link]([https://github.com/jhuang678/Distribution_Generator](https://github.com/jhuang678/Distribution_Generator/blob/main/README.md))
+[Link](https://github.com/jhuang678/Distribution_Generator)
 
 ## Washington State Housing Price Predictor
 
