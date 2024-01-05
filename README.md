@@ -3,7 +3,7 @@
 
 ## Data Mining on TikTok Video and User Engagement
 
-Exploring the vibrant intersection of content authenticity and user engagement on TikTok, this study dissects video data to unravel the nuances of digital interaction. Our data-driven approach scrutinizes over 19,000 videos, distinguishing misleading content and engagement patterns pivotal for stakeholders in digital media. This concise repository offers a window into sophisticated data mining techniques that delve into classification, clustering, and sentiment analysis, providing a blueprint for enhancing platform integrity and user experience. With rigorous analysis and machine learning models, this project is a testament to the analytical prowess and innovation at the heart of today's data science landscape.
+This project represents an in-depth data mining initiative on TikTok, where over 19,000 videos were analyzed for content authenticity and user engagement. Employing sophisticated data mining techniques like K-means for metrics clustering and Random Forest for misinformation detection with an impressive accuracy of 99.5%, the study skillfully dissects video data to unveil digital interaction nuances. Integral to this project is the use of NLP for virality analysis, identifying top trending topics and deciphering the dynamics of content virality on the platform. This repository is a testament to the blend of rigorous analysis and innovative machine learning models, reflecting the analytical prowess essential in today’s data science field, particularly for stakeholders in digital media looking to enhance platform integrity and user experience.
 
 - **Tech Stack:** Python
 - **Libraries:** Numpy, Pandas, Seaborn, Matplotlib, Sklearn, WordCloud, RE, NLTK
