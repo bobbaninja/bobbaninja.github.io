@@ -48,7 +48,7 @@ This project implements the K-means clustering algorithm to compress images. The
 ## Disneyland Reviews Exploratory Data Analysis (Python)
 An exploratory data analysis on Disneyland’s reviews.
 
-[Link](https://github.com/jhuang678/Disneyland_Reviews_EDA)
+[Repo](https://github.com/jhuang678/Disneyland_Reviews_EDA)
 
 
 
