@@ -20,7 +20,7 @@ This machine learning project accurately forecasts median housing prices in over
 [Link](https://github.com/jhuang678/WA_House_Price_Predictor)
 
 
-## No Place Like Home: Visualization and Recommendation Application for Real Estates
+## No Place Like Home: Visualization and Recommendation Application for Living Location
 
 The project "No Place Like Home" focuses on simplifying the process of finding a place to live through a unique visualization and recommendation application. Motivated by the need for an efficient, comprehensive house-hunting tool, the product integrates a multi-parameter recommendation algorithm, distinguishing itself by considering unique attributes like demographics, culture, safety, and cultural factors. The data collection involved aggregating and scraping extensive regional data. The application demonstrated a high recommendation accuracy of 0.802, along with 73.3% positive user experience feedback, indicating both its effectiveness and user-friendly design.
 
