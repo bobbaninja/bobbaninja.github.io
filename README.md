@@ -1,5 +1,5 @@
 # Side Project Site - Jeffrey Huang
-> MS Analytics @ GATech, Data Analytical and Strategic Planning Intern @ Disney
+> Data Scientist | MS in Analytics at Georgia Tech | Former Data Analyst Intern at Disney
 
 ## Data Mining on TikTok Video and User Engagement
 
