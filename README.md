@@ -8,7 +8,7 @@ This project represents an in-depth data mining initiative on TikTok, where over
 - **Tech Stack:** Python
 - **Libraries:** Numpy, Pandas, Seaborn, Matplotlib, Sklearn, WordCloud, RE, NLTK
   
-[Link](https://github.com/jhuang678/Tiktok_Video)
+[Repo](https://github.com/jhuang678/Tiktok_Video)
 
 ## Washington State Housing Price Predictor
 
@@ -17,7 +17,7 @@ This machine learning project accurately forecasts median housing prices in over
 - **Tech Stack:** Python
 - **Libraries:** Request, BeautifulSoup, RE, Numpy, Pandas, Seaborn, Matplotlib, Sklearn
 
-[Link](https://github.com/jhuang678/WA_House_Price_Predictor)
+[Repo](https://github.com/jhuang678/WA_House_Price_Predictor)
 
 
 ## No Place Like Home: Visualization and Recommendation Application for Living Location
@@ -29,7 +29,7 @@ This project, although not fully disclosed in a public repository due to academi
 - **Tech Stack:** Python, SQL, JavaScript
 - **Libraries:** Request, BeautifulSoup, RE, Numpy, Pandas, Sklearn, D3.js, Flask
 
-[Link](https://youtu.be/haw5CFshLQc)
+[Demo Video](https://youtu.be/haw5CFshLQc)
 
 ## PDGenerator: Empowering Data Science with Random Variate Generation Package
 
@@ -38,12 +38,12 @@ PDGenerator is a specialized Python library for generating random variates from 
 - **Tech Stack:** Python
 - **Libraries:** Numpy, Scipy, Matplotlib
   
-[Link](https://github.com/jhuang678/Distribution_Generator)
+[Repo](https://github.com/jhuang678/Distribution_Generator)
 
 ## Image K-Means Compressor (Python)
 This project implements the K-means clustering algorithm to compress images. The implementation is done without using any external libraries for K-means clustering.
 
-[Link](https://github.com/jhuang678/Image_Compression)
+[Repo](https://github.com/jhuang678/Image_Compression)
 
 ## Disneyland Reviews Exploratory Data Analysis (Python)
 An exploratory data analysis on Disneyland’s reviews.
