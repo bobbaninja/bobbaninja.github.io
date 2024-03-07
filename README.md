@@ -39,6 +39,7 @@ The repository encompasses a variety of models such as Decision Tree, Linear Reg
 
 - **Tech Stack:** Python
 - **Libraries:** Numpy
+- 
 [Repo](https://github.com/jhuang678/MLScratchPad)
 
 
