@@ -31,6 +31,17 @@ This project, although not fully disclosed in a public repository due to academi
 
 [Demo Video](https://youtu.be/haw5CFshLQc)
 
+## MLScratchPad: Machine Learning from Scratch
+
+MLScratchPad is an educational repository that offers a unique, hands-on experience in building classic machine learning models from the ground up. Focused on algorithmic insights, this project is specially designed for those who seek a profound understanding of the internal workings of machine learning algorithms, bypassing the use of high-level libraries like scikit-learn. It is ideal for students, educators, and professionals in computer science, offering an excellent platform to delve into the complexities of machine learning models.
+
+The repository encompasses a variety of models such as Decision Tree, Linear Regression, Random Tree, and many more, each implemented to provide a clear understanding of their algorithms. Special emphasis is placed on presenting the mathematical principles that underpin these models, making it a valuable resource for learning and teaching. The code in each module is thoroughly documented, ensuring ease of use and comprehensibility.
+
+- **Tech Stack:** Python
+- **Libraries:** Numpy
+[Repo](https://github.com/jhuang678/MLScratchPad)
+
+
 ## PDGenerator: Empowering Data Science with Random Variate Generation Package
 
 PDGenerator is a specialized Python library for generating random variates from a variety of probability distributions. It's engineered for precision and ease of use, catering to data scientists and researchers in need of robust simulation tools. The library encompasses over 15 distributions and employs established methods such as the Inverse Transform Theorem for accurate variate generation. Rigorously tested to meet a 95% confidence level, PDGenerator offers a reliable solution for statistical needs within any Python setting.
