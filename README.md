@@ -19,18 +19,6 @@ This machine learning project accurately forecasts median housing prices in over
 
 [Repo](https://github.com/jhuang678/WA_House_Price_Predictor)
 
-
-## No Place Like Home: Visualization and Recommendation Application for Living Location
-
-The project "No Place Like Home" focuses on simplifying the process of finding a place to live through a unique visualization and recommendation application. Motivated by the need for an efficient, comprehensive house-hunting tool, the product integrates a multi-parameter recommendation algorithm, distinguishing itself by considering unique attributes like demographics, culture, safety, and cultural factors. The data collection involved aggregating and scraping extensive regional data. The application demonstrated a high recommendation accuracy of 0.802, along with 73.3% positive user experience feedback, indicating both its effectiveness and user-friendly design.
-
-This project, although not fully disclosed in a public repository due to academic honesty, can be explored further through a demo video.
-
-- **Tech Stack:** Python, SQL, JavaScript
-- **Libraries:** Request, BeautifulSoup, RE, Numpy, Pandas, Sklearn, D3.js, Flask
-
-[Demo Video](https://youtu.be/haw5CFshLQc)
-
 ## MLScratchPad: Machine Learning from Scratch
 
 MLScratchPad is an educational repository that offers a unique, hands-on experience in building classic machine learning models from the ground up. Focused on algorithmic insights, this project is specially designed for those who seek a profound understanding of the internal workings of machine learning algorithms, bypassing the use of high-level libraries like scikit-learn. It is ideal for students, educators, and professionals in computer science, offering an excellent platform to delve into the complexities of machine learning models.
@@ -42,6 +30,16 @@ The repository encompasses a variety of models such as Decision Tree, Linear Reg
 - 
 [Repo](https://github.com/jhuang678/MLScratchPad)
 
+## No Place Like Home: Visualization and Recommendation Application for Living Location
+
+The project "No Place Like Home" focuses on simplifying the process of finding a place to live through a unique visualization and recommendation application. Motivated by the need for an efficient, comprehensive house-hunting tool, the product integrates a multi-parameter recommendation algorithm, distinguishing itself by considering unique attributes like demographics, culture, safety, and cultural factors. The data collection involved aggregating and scraping extensive regional data. The application demonstrated a high recommendation accuracy of 0.802, along with 73.3% positive user experience feedback, indicating both its effectiveness and user-friendly design.
+
+This project, although not fully disclosed in a public repository due to academic honesty, can be explored further through a demo video.
+
+- **Tech Stack:** Python, SQL, JavaScript
+- **Libraries:** Request, BeautifulSoup, RE, Numpy, Pandas, Sklearn, D3.js, Flask
+
+[Demo Video](https://youtu.be/haw5CFshLQc)
 
 ## PDGenerator: Empowering Data Science with Random Variate Generation Package
 
