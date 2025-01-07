@@ -1,5 +1,5 @@
-# Side Project Site - Jeffrey Huang
-> Data Scientist, MS in Analytics at Georgia Tech, Former Data Analyst Intern at Disney
+# Side Project Site
+> Data Scientist, MS in Analytics at Georgia Tech
 
 ## Data Mining on TikTok Video and User Engagement
 
