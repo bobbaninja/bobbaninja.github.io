@@ -1,14 +1,6 @@
 # Side Project Site
 > Data Scientist, MS in Analytics at Georgia Tech
 
-## SEO Causal Experiment Simulator
-This project represents a professional-grade experimentation platform designed to execute high-velocity SEO incrementality testing. Employing sophisticated causal inference techniques, the simulator utilizes Bayesian Structural Time Series (CausalImpact) to isolate organic search lift from environmental noise and confounding factors. The framework covers the entire experiment lifecycle, including matched-market design via Euclidean distance, power analysis for optimal test duration, and stochastic data generation with seasonal components. A key highlight of this repository is the "Batch Runner" feature, demonstrating the ability to manage multiple concurrent experiments while maintaining statistical rigor. This tool is a testament to the blend of advanced econometrics and analytics engineering, reflecting the expertise required to translate complex statistical outcomes into actionable executive recommendations for enterprise-level marketing roadmaps.
-
-- **Tech Stack:** Python
-- **Libraries:** : Streamlit, pycausalimpact, DuckDB, Pandas, Numpy, Statsmodels, Plotly, Scikit-learn
-
-[Repo](https://github.com/bobbaninja/digital-marketing-experiment-simulator)
-
 ## Data Mining on TikTok Video and User Engagement
 
 This project represents an in-depth data mining initiative on TikTok, where over 19,000 videos were analyzed for content authenticity and user engagement. Employing sophisticated data mining techniques like K-means for metrics clustering and Random Forest for misinformation detection with an impressive accuracy of 99.5%, the study skillfully dissects video data to unveil digital interaction nuances. Integral to this project is the use of NLP for virality analysis, identifying top trending topics and deciphering the dynamics of content virality on the platform. This repository is a testament to the blend of rigorous analysis and innovative machine learning models, reflecting the analytical prowess essential in today’s data science field, particularly for stakeholders in digital media looking to enhance platform integrity and user experience.
@@ -17,6 +9,22 @@ This project represents an in-depth data mining initiative on TikTok, where over
 - **Libraries:** Numpy, Pandas, Seaborn, Matplotlib, Sklearn, WordCloud, RE, NLTK
   
 [Repo](https://github.com/jhuang678/Tiktok_Video)
+
+## Data Science Playbook
+This project is an interactive, multi-page educational application designed to help data professionals master fundamental and advanced concepts. Acting as a comprehensive technical playbook, it pairs state-of-the-art learning resources with hands-on Python implementations, concept visualizations, and interview solutions. Users can interactively practice SQL and Pandas drills, explore machine learning algorithms, visualize statistical probability distributions, and study A/B testing methodologies all within a unified, interactive platform.
+
+- **Tech Stack:** Python, Streamlit
+- **Libraries:** Pandas, NumPy, Plotly, Matplotlib, Seaborn, Scikit-learn, SciPy
+
+[Repo](https://github.com/bobbaninja/data-science-playbook)
+
+## SEO Causal Experiment Simulator
+This project represents a professional-grade experimentation platform designed to execute high-velocity SEO incrementality testing. Employing sophisticated causal inference techniques, the simulator utilizes Bayesian Structural Time Series (CausalImpact) to isolate organic search lift from environmental noise and confounding factors. The framework covers the entire experiment lifecycle, including matched-market design via Euclidean distance, power analysis for optimal test duration, and stochastic data generation with seasonal components. A key highlight of this repository is the "Batch Runner" feature, demonstrating the ability to manage multiple concurrent experiments while maintaining statistical rigor. This tool is a testament to the blend of advanced econometrics and analytics engineering, reflecting the expertise required to translate complex statistical outcomes into actionable executive recommendations for enterprise-level marketing roadmaps.
+
+- **Tech Stack:** Python
+- **Libraries:** : Streamlit, pycausalimpact, DuckDB, Pandas, Numpy, Statsmodels, Plotly, Scikit-learn
+
+[Repo](https://github.com/bobbaninja/digital-marketing-experiment-simulator)
 
 ## Washington State Housing Price Predictor
 
